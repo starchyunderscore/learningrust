@@ -4,7 +4,8 @@
 // mod strings;
 // mod touples;
 // mod arrays;
-mod vectors;
+// mod vectors;
+mod functions;
 fn main() {
     // print::run();
     // vars::run();
@@ -12,5 +13,6 @@ fn main() {
     // strings::run();
     // touples::run();
     // arrays::run();
-    vectors::run();
+    // vectors::run();
+    functions::run();
 }
