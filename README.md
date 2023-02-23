@@ -1,1 +1,1 @@
-welcome to the project i'll be honest there is nothing of value here for you it's just me learning run
+welcome to the project i'll be honest there is nothing of value here for you it's just me learning rust so uh yeah.
