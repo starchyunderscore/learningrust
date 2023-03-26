@@ -2,7 +2,8 @@ pub fn run() {
     println!("{}",double(8));
     println!("{}", complex(5));
     let a_number:i32=8;
-    println!("{} is even? {}",a_number,is_even(a_number))
+    println!("{} is even? {}",a_number,is_even(a_number));
+    println!("{}", returnsomething());
 }
 
 fn double(input:i32) -> i32 {
@@ -17,4 +18,8 @@ fn complex(input:i32) -> i32 {
 
 fn is_even(num:i32) -> bool {
     num%2==0
+}
+
+fn returnsomething() -> i32 {
+    12
 }
