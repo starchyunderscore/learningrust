@@ -5,9 +5,9 @@
 // mod touples;
 // mod arrays;
 // mod vectors;
-mod functions;
+// mod functions;
+mod uinput;
 fn main() {
-    println!("This is an edit to test ssh connection to github");
     // print::run();
     // vars::run();
     // types::run();
@@ -15,5 +15,6 @@ fn main() {
     // touples::run();
     // arrays::run();
     // vectors::run();
-    functions::run();
+    // functions::run();
+    uinput::run();
 }
